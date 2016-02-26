@@ -2,4 +2,5 @@
 int main()
 {
 	printf("only try whether I can use git\n");
+	printf("after that");
 }
